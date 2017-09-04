@@ -1,5 +1,5 @@
 class Bee extends Grub {
-  constructor () {
+  constructor() {
     super();
 
     this.age = 5;
